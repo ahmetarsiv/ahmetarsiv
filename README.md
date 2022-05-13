@@ -4,7 +4,7 @@
 
 ## I'am a IT Specialist Designer UX/UI and Developer!!
 
-- 🌱 I’m currently working on Laravel opensource license app: [Dcapp][dcapp_link]!
+- 🌱 I’m currently working on Laravel opensource license app: [Laerx][laerx_link]!
 - 🥅 2022 Goals: Contribute more to Open Source projects, learn new technologies
 - ⚡ I love to watch movies and tv shows in my spare times
 
@@ -38,7 +38,7 @@
 
 <img align="left" alt="Ahmet Arşiv's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ahmetarsiv&show_icons=true&hide_border=true" />
 
-[dcapp_link]: https://github.com/codenteq/dcapp
+[laerx_link]: https://github.com/codenteq/laerx
 [facebook]: https://www.facebook.com/ahmetarsiv/
 [twitter]: https://twitter.com/ahmetarsiv/
 [instagram]: https://www.instagram.com/ahmetarsivi/
