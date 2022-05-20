@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ahmetarsiv?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fahmetarsiv&screen_name=ahmetarsiv)
 
-## I'am a IT Specialist Designer UX/UI and Developer!!
+## Developer | Digital Marketing | UX/UI | IT Specialist
 
 - 🌱 I’m currently working on Laravel opensource license app: [Laerx][laerx_link]!
 - 🥅 2022 Goals: Contribute more to Open Source projects, learn new technologies
