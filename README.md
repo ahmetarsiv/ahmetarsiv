@@ -1,45 +1,52 @@
-### Hi there, I'm Ahmet Arşiv 👋
+<h1 align="center">
+  <a>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I'm+Ahmet+Sefa+ARŞİV&center=true&size=25">
+  </a>
+</h1>
+💻 Software Developer | Digital Marketing | SEO Specialist<br>
+📙 Blogger <br>
+<h2 align="center">
+Who am I 👀 
+</h2>
+Ahmet Sefa ARŞİV (b. November 24, 2002, İstanbul), He is a software developer and a Turkish young entrepreneur devoted to development.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ahmetarsiv?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fahmetarsiv&screen_name=ahmetarsiv)
+Participated in web programming and online programs. The e-Exam system of the Ministry of National Education was coded on the web and the basis was formed. At the same time, he created blog posts and new products for team developers and entrepreneurs.
 
-## Developer | Digital Marketing | UX/UI | SEO Specialist
+First Years
+Arşiv, originally from Fatih district of Istanbul by his family, was born on November 24, 2002 in Istanbul, where his father was a printing company. He is of Greece descent on his father's side. After graduating from primary school in Istanbul, he completed his secondary education at Karaman Temizel-Ünlü Vocational and Technical Anatolian High School (formerly Computer High School).
 
-- 🌱 I’m currently working on Laravel opensource license app: [Laerx][laerx_link]!
-- 🥅 2022 Goals: Contribute more to Open Source projects, learn new technologies
-- ⚡ I love to watch movies and tv shows in my spare times
+Career
+Ahmet Sefa Archive started his career in the 2010s by doing sales and marketing. In 2019, it provided services to its customers by creating Turkey's web software and digital media advertising products.
+</p>
+<center>
+<br>
+<h2 align="center">
+Connect with me 
+</h2>
+<p align="center">
+  You can visit my social media accounts, <b>read my blog posts</b>, watch my videos and learn more about me through the site. Don't forget to visit my social media accounts below to get to know me. <br>
+🌿 <a href="https://www.arsivpro.com/">arsivpro.com</a> 🌿
 
-### Connect with me:
+</p>  
+<br>
+<p align="center">
+<a href="https://twitter.com/ahmetarsiv" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a> &nbsp;
 
-[<img align="left" alt="ahmetarsiv | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="ahmetarsiv | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ahmetarsiv | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ahmetarsiv | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://www.medium.com/@ahmetarsiv/?hl=tr" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=green alt=medium style="margin-bottom: 5px;" />
+</a> &nbsp;
 
-<br />
+<a href="https://linkedin.com/in/ahmetarsiv" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> &nbsp;
 
-### Languages and Tools:
+<a href="https://www.instagram.com/ahmetarsivi/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=red alt=instagram style="margin-bottom: 5px;" />
+</a> &nbsp;
+</p>  
 
-<code><img alt="HTMl" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
-<code><img alt="CSS" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
-<code><img alt="Java Script" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
-<code><img alt="Vue Js" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img alt="PHP" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></code>
-<code><img alt="Laravel" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" /></code>
-<code><img alt="Symfony" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png" /></code>
-<code><img alt="SQL" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></code>
-<code><img alt="MySQL" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></code>
-<code><img alt="Git" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
-<code><img alt="Github" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
-
-
-<br />
-
----
-
-<img align="left" alt="Ahmet Arşiv's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ahmetarsiv&show_icons=true&hide_border=true" />
-
-[laerx_link]: https://github.com/codenteq/laerx
-[facebook]: https://www.facebook.com/ahmetarsiv/
-[twitter]: https://twitter.com/ahmetarsiv/
-[instagram]: https://www.instagram.com/ahmetarsivi/
-[linkedin]: https://www.linkedin.com/in/ahmetarsiv/
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ahmetarsiv&show_icons=true&count_private=true&theme=dark" />
+</p>
