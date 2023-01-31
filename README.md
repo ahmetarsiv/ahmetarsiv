@@ -17,8 +17,3 @@ Arşiv, originally from Fatih district of Istanbul by his family, was born on No
 Career
 Ahmet Sefa Arşiv started his career in the 2010s by doing sales and marketing. In 2019, it provided services to its customers by creating Turkey's web software and digital media advertising products.
 </p>
-<center>
-<br>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ahmetarsiv&show_icons=true&count_private=true&theme=dark" />
-</p>
