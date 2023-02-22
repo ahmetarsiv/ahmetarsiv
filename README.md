@@ -4,7 +4,7 @@ About Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40ahmetarsiv-239a3b.svg)](https://github.com/ahmetarsiv)
 [![Twitter](https://img.shields.io/badge/Twitter-%40ahmetarsiv-58a1f2.svg)](https://twitter.com/ahmetarsiv)
-[![Instagram](https://img.shields.io/badge/Instagram-%40ahmetarsivi-red)](https://www.instagram.com/ahmetarsivi/)
+[![Instagram](https://img.shields.io/badge/Instagram-%40ahmetarsivi-red)](https://www.instagram.com/ahmet_arsiv/)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/ahmetarsiv/)
 
 [Ahmet Sefa ARŞİV](https://github.com/ahmetarsiv) (b. November 24, 2002, İstanbul), He is a software developer and a Turkish young entrepreneur devoted to development.
